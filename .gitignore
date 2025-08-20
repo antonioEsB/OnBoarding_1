@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+**/packages/*
